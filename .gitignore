@@ -1,0 +1,4 @@
+*.exe
+__debug_bin
+/.vscode
+/packets/clilocid_string.go
